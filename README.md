@@ -26,9 +26,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/giovanna-figueiroa/giovanna-figueiroa/output/snake.svg" alt="Snake animation" />
-
-###
